@@ -1,2 +1,3 @@
 proizvolnyi text
-//comment
+var = "u"
+echo u
