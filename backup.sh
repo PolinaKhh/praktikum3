@@ -1,0 +1,2 @@
+proizvolnyi text
+//comment
